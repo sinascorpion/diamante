@@ -27,3 +27,31 @@ corepack enable pnpm
 ```bash
 pnpm -v
 ```
+
+# Replace your referral code
+Don't replace the link, for instance, if it is `https://campaign.diamante.io/?ref=RTY-QWER`, just replace `RTY-QWER`
+```bash
+nano code.txt
+``
+
+# Replace your wallet private key with 0x
+```bash
+nano .env
+```
+
+# Install dependencies
+```bash
+npm install axios ethers https-proxy-agent chalk dotenv ora
+```
+# Run the bot
+```bash
+npm start
+```
+
+Features Are:
+
+Claim Faucet 
+Send To Friend 
+Send To Random
+
+
