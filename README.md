@@ -14,8 +14,9 @@ nvm install 22
 ```
 
 # Verify the Node.js version:
+Should print "v22.21.1"
 ```bash
-node -v # Should print "v22.21.1".
+node -v
 ```
 
 # Download and install pnpm:
