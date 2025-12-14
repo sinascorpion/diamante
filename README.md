@@ -28,11 +28,16 @@ corepack enable pnpm
 pnpm -v
 ```
 
+# Get bot
+```bash
+git clone https://github.com/sinascorpion/diamante.git
+```
+
 # Replace your referral code
 Don't replace the link, for instance, if it is `https://campaign.diamante.io/?ref=RTY-QWER`, just replace `RTY-QWER`
 ```bash
 nano code.txt
-``
+```
 
 # Replace your wallet private key with 0x
 ```bash
