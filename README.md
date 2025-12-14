@@ -59,8 +59,9 @@ npm start
 
 Features Are:
 
-Claim Faucet 
-Send To Friend 
-Send To Random
+Claim Faucet,
+Send To Friend,
+Send To Random,
+
 
 
