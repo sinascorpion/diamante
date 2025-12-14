@@ -1144,7 +1144,7 @@ async function main() {
         console.log(`\n${colors.bold}${colors.cyan}============================================`);
         console.log(`       Goodbye! Thanks for using`);
         console.log(`============================================`);
-        console.log(`${colors.bold}${colors.magenta}       Created by Kazuha`);
+        console.log(`${colors.bold}${colors.magenta}       Created by sinascorpion`);
         console.log(`       github.com/sinascorpion${colors.reset}`);
         console.log(`${colors.bold}${colors.cyan}============================================${colors.reset}\n`);
         process.exit(0);
