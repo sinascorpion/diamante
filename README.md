@@ -32,6 +32,9 @@ pnpm -v
 ```bash
 git clone https://github.com/sinascorpion/diamante.git
 ```
+```bash
+cd diamante
+```
 
 # Replace your referral code
 Don't replace the link, for instance, if it is `https://campaign.diamante.io/?ref=RTY-QWER`, just replace `RTY-QWER`
