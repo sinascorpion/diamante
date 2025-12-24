@@ -52,6 +52,13 @@ nano .env
 ```bash
 npm install
 ```
+❗️ If you installed it before first delete `package-lock.json` and `node_modules`
+```bash
+rm -r node_modules
+rm package-lock.json
+```
+Then `npm install` again
+
 # Run the bot
 ```bash
 npm start
