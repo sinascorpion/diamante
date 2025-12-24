@@ -50,7 +50,7 @@ nano .env
 
 # Install dependencies
 ```bash
-npm install axios ethers https-proxy-agent chalk dotenv ora
+npm install
 ```
 # Run the bot
 ```bash
